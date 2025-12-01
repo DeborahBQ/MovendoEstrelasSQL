@@ -30,3 +30,8 @@ Implementar e manipular dados em um banco de dados relacional utilizando comando
 ## Ferramentas utilizadas
 - PostgreSQL + PGAdmin
 - GitHub para versionamento e entrega
+
+## Entrega
+Repósitorio público no GitHub:
+[https://github.com/DeborahBQ/MovendoEstrelasSQL](https://github.com/DeborahBQ/MovendoEstrelasSQL)
+
